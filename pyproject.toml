@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ode-visualisations"
+version = "0.1.0"
+description = ""
+authors = ["rafkat <rafgaleev3@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+seaborn = "^0.13.2"
+jupyter = "^1.0.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
